@@ -1,0 +1,56 @@
+body {
+    background-color: lightgray;
+}
+
+#searchInput {
+    height: 3rem;
+    width: 70%;
+    border-radius: 20px;
+    margin: 30px 30px 5px 30px;
+    color: gray;
+    font-size: 2rem;
+    padding-left: 30px;
+}
+
+#searchResult {
+    margin-left: 35px;
+    display: flex;
+}
+
+.buttonDiv {
+    margin-top: 5px;
+    display: inline;
+}
+
+.inputTag {
+    font-size: 1.5rem;
+    border-radius: 10px;
+    width: 50vw;
+}
+
+.favoritebtn {
+    background-color: blueviolet;
+    font-size: 1.5rem;
+    border-radius: 10px;
+    margin-left: 10px;
+    /* display: flex; */
+}
+
+.btnDiv {
+    display: inline;
+    margin-top: 5px;
+}
+
+.selectedbtn {
+    background-color: lightcoral;
+    font-size: 1.5rem;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+
+.fvtbtn {
+    background-color: lightcoral;
+    font-size: 1.5rem;
+    border-radius: 10px;
+    margin-left: 75%;  
+}
